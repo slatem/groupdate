@@ -1,5 +1,8 @@
 # Groupdate
 
+# This branch adds compatibility for Seamless Database Pool gem. Right now it assumes you are using a mysql adapter.
+
+
 The simplest way to group by:
 
 - day
